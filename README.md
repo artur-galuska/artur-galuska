@@ -37,7 +37,7 @@ CSS - basics
 
 ### Prgoramming & Other Tools
 <p>
-  <img src="https://img.shields.io/badge/Html3-red?style=for-the-badge&logo=html">
+  <img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html2">
   <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F37626?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
