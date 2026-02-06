@@ -10,7 +10,7 @@
 
 ## About
 
-<p align="center">
+<p align="left">
 Motivated and detail-oriented Data & Business Analytics professional with recent certifications in CompTIA Data+ and BCS Foundation in Business Analytics.
 Skilled in Excel, SQL, Power BI, Tableau, and Python, with hands-on experience managing stock and operational data in logistics and e-commerce environments.
 Adept at interpreting information, improving data accuracy, and presenting clear insights to support business decisions.
@@ -27,10 +27,17 @@ Currently actively upskilling in python.
   <img src="https://img.shields.io/badge/Git-2886AB?style=for-the-badge&logo=git&logoColor=White"/>
   <img src="https://img.shields.io/badge/GitHub-2886AB?style=for-the-badge&logo=github&logoColor=White"/>
 </p>
+SQL
+Python
+M - Power Query Formula Language
+DAX - Data Analysis Expressions
+HTML - basics
+CSS - basics
 
-### Web Frameworks
+
+### Prgoramming & Other Tools
 <p>
-  <img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html">
+  <img src="https://img.shields.io/badge/Html3-red?style=for-the-badge&logo=html">
   <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F37626?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
