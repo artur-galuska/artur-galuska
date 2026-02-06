@@ -11,12 +11,13 @@
 ## About
 
 <p align="center">
-
-</p>
-
-## GitHub Stats
-<p align="center">
-  <img src="https://ghchart.rshah.org/artur-galuska" alt="GitHub Stats" />
+Motivated and detail-oriented Data & Business Analytics professional with recent certifications in CompTIA Data+ and BCS Foundation in Business Analytics.
+Skilled in Excel, SQL, Power BI, Tableau, and Python, with hands-on experience managing stock and operational data in logistics and e-commerce environments.
+Adept at interpreting information, improving data accuracy, and presenting clear insights to support business decisions.
+Fluent in English, Russian, and Latvian, with some rudimentary Welsh.
+Eager to apply analytical and technical skills in a junior or trainee data analyst position. Also willing to take on Admin roles.
+  
+Currently actively upskilling in python.
 </p>
 
 ## 🛠 Skills & Tools
