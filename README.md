@@ -37,10 +37,11 @@ CSS - basics
 
 ### Prgoramming & Other Tools
 <p>
-  <img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html2">
+  <img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html">
   <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F37626?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
+Excel, Power BI, Tableau, VS Studio, MySQL Workbench, SSMS [SQL Server Management Studio], Jupyter Notebooks, Notepad++, 
 
 ### Version Control & Development Tools
 <p>
