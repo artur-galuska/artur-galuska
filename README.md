@@ -22,32 +22,32 @@ Currently actively upskilling in python.
 
 ## 🛠 Skills & Tools
 
-### Programming Languages
+### Programming languages
 <p>
-  <img src="https://img.shields.io/badge/Git-2886AB?style=for-the-badge&logo=git&logoColor=White"/>
-  <img src="https://img.shields.io/badge/GitHub-2886AB?style=for-the-badge&logo=github&logoColor=White"/>
+  <img src="https://img.shields.io/badge/SQL-Structured_Query_Language-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Python-Programming_Language-110b61?style=flat&logo=python&logoColor=d1822c&labelColor=17179c"/>
+  <img src="https://img.shields.io/badge/M-Power_Query_Formula_Language-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/HTML-Basics-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/CSS-Basics-2f0b61?style=flat&logo=M&logoColor=d1822c&labelColor=45108e"/>
 </p>
-SQL
-Python
-M - Power Query Formula Language
-DAX - Data Analysis Expressions
-HTML - basics
-CSS - basics
 
 
-### Prgoramming & Other Tools
+### Version control & development
+<p>
+  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+Git, Github, VSCode
+</p>
+
+### Other digital tools
 <p>
   <img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html">
   <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F37626?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
-Excel, Power BI, Tableau, VS Studio, MySQL Workbench, SSMS [SQL Server Management Studio], Jupyter Notebooks, Notepad++, 
-
-### Version Control & Development Tools
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+Excel, Power BI, Tableau, VS Studio, MySQL Workbench, SSMS [SQL Server Management Studio], Jupyter Notebooks, Notepad++
 
 ## Connect With Me
 <p align="center">
