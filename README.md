@@ -24,12 +24,12 @@ Currently actively upskilling in python.
 
 ### Programming languages
 <p>
-  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Python_(Programming_Language)-Basics-110b61?style=flat&logo=python&logoColor=d1822c&labelColor=17179c"/><br>
-  <img src="https://img.shields.io/badge/M_(Power_Query_Formula_Language)-Basics-2f0b61?style=flat&logo=mega&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/DAX_(Data_Analysis_Expressions)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/HTML_(Hyper_Text_Markup_Language)-Basics-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/CSS_(Cascading_Style_Sheets)-Basics-2f0b61?style=flat&logo=css&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-46610b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Python_(Programming_Language)-Basics-11610b?style=flat&logo=python&logoColor=d1822c&labelColor=17179c"/><br>
+  <img src="https://img.shields.io/badge/M_(Power_Query_Formula_Language)-Basics-11610b?style=flat&logo=mega&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/DAX_(Data_Analysis_Expressions)-Intermediate-46610b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/HTML_(Hyper_Text_Markup_Language)-Basics-11610b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/CSS_(Cascading_Style_Sheets)-Basics-11610b?style=flat&logo=css&logoColor=d1822c&labelColor=45108e"/>
 </p>
 
 ### Version control & development
@@ -43,26 +43,23 @@ Currently actively upskilling in python.
 
 ### Other digital tools
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Office-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/Word-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/Excel-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/PowerPoint-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Word-Expert-61580b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Excel-Expert-61580b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/PowerPoint-Expert-61580b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
   <img src="https://img.shields.io/badge/Access-Basics-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Google_Suite-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/Docs-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/Sheets-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/Slides-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Google_Suite--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Docs-Expert-61580b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Sheets-Expert-61580b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Slides-Expert-61580b?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/Power_BI-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/Tableau-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/MySQL_Workbench-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/SSMS_(SQL_Server_Management_Studio)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-
-  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-
 </p>
-Adobe Suite, Photoshop, Audition, Flash, 
+Adobe Suite, Photoshop, Audition, Flash, Illustrator, InDesign
+CorelDRAW, CAD, SolidEdge, Blender, Krita
+LibreOffice, OpenOffice
 
 ## Connect With Me
 <p align="center">
