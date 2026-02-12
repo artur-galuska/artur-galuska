@@ -24,30 +24,45 @@ Currently actively upskilling in python.
 
 ### Programming languages
 <p>
-  <img src="https://img.shields.io/badge/SQL-Structured_Query_Language-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/Python-Programming_Language-110b61?style=flat&logo=python&logoColor=d1822c&labelColor=17179c"/>
-  <img src="https://img.shields.io/badge/M-Power_Query_Formula_Language-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/HTML-Basics-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/CSS-Basics-2f0b61?style=flat&logo=M&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Python_(Programming_Language)-Basics-110b61?style=flat&logo=python&logoColor=d1822c&labelColor=17179c"/><br>
+  <img src="https://img.shields.io/badge/M_(Power_Query_Formula_Language)-Basics-2f0b61?style=flat&logo=mega&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/DAX_(Data_Analysis_Expressions)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/HTML_(Hyper_Text_Markup_Language)-Basics-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/CSS_(Cascading_Style_Sheets)-Basics-2f0b61?style=flat&logo=css&logoColor=d1822c&labelColor=45108e"/>
 </p>
-
 
 ### Version control & development
 <p>
-  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
-Git, Github, VSCode
+  <img src="https://img.shields.io/badge/Git-Basics-2f0b61?style=flat&logo=github&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Github-Basics-2f0b61?style=flat&logo=github&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/VSCode-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Jupyter_Notebooks-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Notepad++-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
 </p>
 
 ### Other digital tools
 <p>
-  <img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html">
-  <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F37626?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Word-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Excel-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/PowerPoint-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Access-Basics-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Google_Suite-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Docs-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Sheets-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Slides-Expert-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Power_BI-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/SSMS_(SQL_Server_Management_Studio)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+
+  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/SQL_(Structured_Query_Language)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+
 </p>
-Excel, Power BI, Tableau, VS Studio, MySQL Workbench, SSMS [SQL Server Management Studio], Jupyter Notebooks, Notepad++
+Adobe Suite, Photoshop, Audition, Flash, 
 
 ## Connect With Me
 <p align="center">
