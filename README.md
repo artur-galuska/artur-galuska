@@ -41,27 +41,35 @@ Currently actively upskilling in python.
   <img src="https://img.shields.io/badge/Notepad++--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
 </p>
 
-### Other digital tools
+### Data tools
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Office-Excel_|_Word_|_PowerPoint_|_Access-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/Google_Suite-Sheets_|_Docs_|_Slides-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+ <img src="https://img.shields.io/badge/Libre_Office--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+ <img src="https://img.shields.io/badge/Open_Office--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/Power_BI--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/Tableau--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/MySQL_Workbench--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/SSMS-SQL_Server_Management_Studio-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
 </p>
-Adobe Suite, Photoshop, Audition, Flash, Illustrator, InDesign
-CorelDRAW, CAD, SolidEdge, Blender, Krita
-LibreOffice, OpenOffice
+
+### Visual and creative tools
+<p>
+  <img src="https://img.shields.io/badge/Adobe_Suite-Photoshop_|_Audition_|_Flash_|_Illustrator_|_InDesign-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/CorelDRAW--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Krita--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/CAD-Computer_Aided_Design-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/SolidEdge--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Blender--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
 
 ## Connect With Me
 <p align="center">
   <a href="#">
   <!-- Add your linkdin and email here-->
-    <img src=""/>
+    <img src=""https://img.shields.io/badge/Linked-In-D14836?style=flat&logo=linkedin"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=flat&logo=gmail"/>
   </a>
 </p>
 
