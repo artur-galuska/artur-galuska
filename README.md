@@ -34,21 +34,21 @@ Currently actively upskilling in python.
 
 ### Version control & development
 <p>
-  <img src="https://img.shields.io/badge/Git-Basics-2f0b61?style=flat&logo=github&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Github-Basics-2f0b61?style=flat&logo=github&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/VSCode-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Jupyter_Notebooks-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Notepad++-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
+  <img src="https://img.shields.io/badge/Git--2f0b61?style=flat&logo=github&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Github--2f0b61?style=flat&logo=github&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/VSCode--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Jupyter_Notebooks--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Notepad++--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/>
 </p>
 
 ### Other digital tools
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Office-Excel_|_Word_|_PowerPoint_|_Access-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
   <img src="https://img.shields.io/badge/Google_Suite-Sheets_|_Docs_|_Slides-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Power_BI-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
-  <img src="https://img.shields.io/badge/SSMS_(SQL_Server_Management_Studio)-Intermediate-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Power_BI--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/Tableau--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/MySQL_Workbench--2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
+  <img src="https://img.shields.io/badge/SSMS-SQL_Server_Management_Studio-2f0b61?style=flat&logo=sqlite&logoColor=d1822c&labelColor=45108e"/><br>
 </p>
 Adobe Suite, Photoshop, Audition, Flash, Illustrator, InDesign
 CorelDRAW, CAD, SolidEdge, Blender, Krita
