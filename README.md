@@ -69,7 +69,7 @@ Currently actively upskilling in python.
     <img src=""https://img.shields.io/badge/Linked-In-D14836?style=flat&logo=linkedin"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail"/>
   </a>
 </p>
 
