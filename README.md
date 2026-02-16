@@ -28,31 +28,31 @@
 
 ### Core Data Skills
 <p>
-  <img src="https://img.shields.io/badge/SQL-2f0b61?style=flat"/>
-  <img src="https://img.shields.io/badge/Excel-2f0b61?style=flat"/>
-  <img src="https://img.shields.io/badge/Power_BI-2f0b61?style=flat"/>
-  <img src="https://img.shields.io/badge/Tableau-2f0b61?style=flat"/>
-  <img src="https://img.shields.io/badge/Python-2f0b61?style=flat"/>
+  <img src="https://img.shields.io/badge/-SQL-2f0b61?style=flat"/>
+  <img src="https://img.shields.io/badge/-Excel-2f0b61?style=flat"/>
+  <img src="https://img.shields.io/badge/-Power_BI-2f0b61?style=flat"/>
+  <img src="https://img.shields.io/badge/-Tableau-2f0b61?style=flat"/>
+  <img src="https://img.shields.io/badge/-Python-2f0b61?style=flat"/>
 </p>
 
 ### Development & Version Control
 <p>
-  <img src="https://img.shields.io/badge/Git-45108e?style=flat"/>
-  <img src="https://img.shields.io/badge/GitHub-45108e?style=flat"/>
-  <img src="https://img.shields.io/badge/VS_Code-45108e?style=flat"/>
-  <img src="https://img.shields.io/badge/Jupyter-45108e?style=flat"/>
+  <img src="https://img.shields.io/badge/-Git-45108e?style=flat"/>
+  <img src="https://img.shields.io/badge/-GitHub-45108e?style=flat"/>
+  <img src="https://img.shields.io/badge/-VS_Code-45108e?style=flat"/>
+  <img src="https://img.shields.io/badge/-Jupyter-45108e?style=flat"/>
 </p>
 
 ### Database & Query Tools
 <p>
-  <img src="https://img.shields.io/badge/SSMS-179c1a?style=flat"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-179c1a?style=flat"/>
+  <img src="https://img.shields.io/badge/-SSMS-179c1a?style=flat"/>
+  <img src="https://img.shields.io/badge/-MySQL_Workbench-179c1a?style=flat"/>
 </p>
 
 ### Office & Productivity
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Office-105d8e?style=flat"/>
-  <img src="https://img.shields.io/badge/Google_Workspace-105d8e?style=flat"/>
+  <img src="https://img.shields.io/badge/-Microsoft_Office-105d8e?style=flat"/>
+  <img src="https://img.shields.io/badge/-Google_Workspace-105d8e?style=flat"/>
 </p>
 
 <details>
@@ -85,10 +85,10 @@
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/artur-galuska-556758397">
-    <img src="https://img.shields.io/badge/LinkedIn-45108e?style=flat"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-45108e?style=flat"/>
   </a>
   <a href="mailto:arturs.galushka.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-45108e?style=flat"/>
+    <img src="https://img.shields.io/badge/-Email-45108e?style=flat"/>
   </a>
 </p>
 
