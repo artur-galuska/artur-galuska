@@ -61,8 +61,8 @@
 - Power Query (M)
 - DAX
 - SQL (views, joins, indexing basics, stored procedures basics)
-  - MySQL Workbench
-  - SSMS
+- MySQL Workbench
+- SSMS
 - Notepad++
 - Spreadsheet tooling: LibreOffice / OpenOffice
 
