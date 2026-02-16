@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="Assets/purple_data_avatar.jpg" alt="Profile Picture" width="150"" />
+  <img src="./Assets/purple_data_avatar.jpg" alt="Profile Picture" width="150"/>
 </p>
 
 <h1 align="center">Hi, I'm Artur</h1>
