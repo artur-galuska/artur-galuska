@@ -14,6 +14,16 @@
 - Experience with stock + operational data (logistics & e-commerce)
 - Languages: English, Russian, Latvian (basic Welsh)
 
+---
+
+## Featured Projects (WIP)
+- 🚧 **Sales Dashboard (Power BI/Tableau)** — Repo coming soon
+- 🚧 **Formula 1 dataset SQL Analysis** — Repo coming soon
+- 🚧 **Python Data Cleaning Notebooks** — Repo coming soon
+- 🚧 **Hotel bookings dataset Excel analysis** — Repo coming soon
+
+---
+
 ## 🛠 Skills & Tools
 
 ### Core Data Skills
@@ -25,8 +35,6 @@
   <img src="https://img.shields.io/badge/Python-2f0b61?style=flat"/>
 </p>
 
----
-
 ### Development & Version Control
 <p>
   <img src="https://img.shields.io/badge/Git-45108e?style=flat"/>
@@ -35,15 +43,11 @@
   <img src="https://img.shields.io/badge/Jupyter-45108e?style=flat"/>
 </p>
 
----
-
 ### Database & Query Tools
 <p>
   <img src="https://img.shields.io/badge/SSMS-179c1a?style=flat"/>
   <img src="https://img.shields.io/badge/MySQL_Workbench-179c1a?style=flat"/>
 </p>
-
----
 
 ### Office & Productivity
 <p>
@@ -51,10 +55,8 @@
   <img src="https://img.shields.io/badge/Google_Workspace-105d8e?style=flat"/>
 </p>
 
----
-
 <details>
-<summary><b>Additional Tools (Data)</b></summary>
+<summary><b>Additional (Data)</b></summary>
 
 - Power Query (M)
 - DAX
@@ -67,16 +69,18 @@
 </details>
 
 <details>
-<summary><b>Additional Tools (Creative / Technical)</b></summary>
+<summary><b>Additional (Creative / Technical)</b></summary>
 
 - HTML / CSS
-- Adobe Suite (Photoshop, Illustrator, InDesign, Audition, Flash)
+- Adobe Suite (Photoshop, Illustrator, InDesign, Audition)
 - CAD / AutoCAD / SolidEdge
 - Blender
 - CorelDRAW
 - Krita
 
 </details>
+
+---
 
 ## Connect With Me
 <p align="center">
