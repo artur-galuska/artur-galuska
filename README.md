@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150"" />
 </p>
 
 <h1 align="center">Hi, I'm Artur</h1>
@@ -9,13 +9,10 @@
 
 ## About
 
-<p align="left">
-
 - Junior Data & Business Analytics professional (CompTIA Data+, BCS Business Analytics)
 - Strong in SQL, Excel/Sheets, Power BI, Tableau, Python
 - Experience with stock + operational data (logistics & e-commerce)
 - Languages: English, Russian, Latvian (basic Welsh)
-</p>
 
 ## 🛠 Skills & Tools
 
@@ -57,30 +54,37 @@
 ---
 
 <details>
-<summary><b>Additional Tools & Languages</b></summary>
+<summary><b>Additional Tools (Data)</b></summary>
 
 - Power Query (M)
 - DAX
-- LibreOffice / OpenOffice
-- HTML / CSS
+- SQL (views, joins, indexing basics, stored procedures basics)
+  - MySQL Workbench
+  - SSMS
 - Notepad++
-- Adobe Suite
-- CAD / AutoCAD / SolidEdge
-- CorelDRAW
-- Krita
-- Blender
+- Spreadsheet tooling: LibreOffice / OpenOffice
 
 </details>
 
+<details>
+<summary><b>Additional Tools (Creative / Technical)</b></summary>
+
+- HTML / CSS
+- Adobe Suite (Photoshop, Illustrator, InDesign, Audition, Flash)
+- CAD / AutoCAD / SolidEdge
+- Blender
+- CorelDRAW
+- Krita
+
+</details>
 
 ## Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/artur-galuska-556758397">
-  <!-- Add your linkdin and email here-->
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat"/>
+  <a href="https://www.linkedin.com/in/artur-galuska-556758397">
+    <img src="https://img.shields.io/badge/LinkedIn-45108e?style=flat"/>
   </a>
   <a href="mailto:arturs.galushka.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat"/>
+    <img src="https://img.shields.io/badge/Email-45108e?style=flat"/>
   </a>
 </p>
 
