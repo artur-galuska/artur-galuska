@@ -1,9 +1,8 @@
-## Hi there 👋
-<!-- Profile Picture -->
+<!-- Profile Picture 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
 </p>
-
+-->
 <h1 align="center">Hi, I'm Artur</h1>
 
 <h2 align="center">Data Analyst</h2>
