@@ -64,7 +64,7 @@
 - MySQL Workbench
 - SSMS
 - Notepad++
-- Spreadsheet tooling: LibreOffice / OpenOffice
+- LibreOffice / OpenOffice
 
 </details>
 
