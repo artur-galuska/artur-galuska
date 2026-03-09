@@ -17,10 +17,11 @@
 ---
 
 ## Featured Projects (WIP)
-- 🚧 **Sales Dashboard (Power BI/Tableau)** — Repo coming soon
-- 🚧 **Formula 1 dataset SQL Analysis** — Repo coming soon
-- 🚧 **Python Data Cleaning Notebooks** — Repo coming soon
-- 🚧 **Hotel bookings dataset Excel analysis** — Repo coming soon
+
+- 🚧 **Formula 1 dataset SQL Analysis** - Repo coming soon
+- 🚧 **Sales Dashboard (Power BI/Tableau)** - Repo coming soon
+- 🚧 **Hotel bookings dataset Excel analysis** - Repo coming soon
+- 🚧 **Python Data Cleaning Notebooks** - Repo coming soon
 
 ---
 
