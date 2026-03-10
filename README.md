@@ -61,7 +61,7 @@
 
 - Power Query (M)
 - DAX
-- SQL (views, joins, indexing basics, stored procedures basics)
+- SQL (views, joins, CTEs, indexing basics, stored procedures basics)
 - MySQL Workbench
 - SSMS
 - Notepad++
