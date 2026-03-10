@@ -12,7 +12,7 @@
 - Junior Data & Business Analytics professional (CompTIA Data+, BCS Business Analytics)
 - Strong in SQL, Excel/Sheets, Power BI, Tableau, Python
 - Experience with stock + operational data (logistics & e-commerce)
-- Languages: English, Russian, Latvian (basic Welsh)
+- Languages: English, Russian, Latvian, basic Welsh
 
 ---
 
