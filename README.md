@@ -20,9 +20,9 @@
 
 - 📌 **Formula 1 races dataset SQL analysis** - [Repo link](https://github.com/artur-galuska/sql-formula-1-races)
 - 📌 **Merch sales dashboard (Tableau)** - [Repo link](https://github.com/artur-galuska/tableau-merch-sales)
-- 🚧 **Sales Dashboard (Power BI)** - Repo coming soon
-- 🚧 **Hotel bookings dataset Excel analysis** - Repo coming soon
-- 🚧 **Python data cleaning notebooks** - Repo coming soon
+- 🚧 **Sales Dashboard (Power BI)** - _Repo coming soon_
+- 🚧 **Hotel bookings dataset Excel analysis** - _Repo coming soon_
+- 🚧 **Python data cleaning notebooks** - _Repo coming soon_
 
 ---
 
