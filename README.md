@@ -18,10 +18,11 @@
 
 ## Featured Projects (WIP)
 
-- 🚧 **Formula 1 dataset SQL Analysis** - Repo coming soon
-- 🚧 **Sales Dashboard (Power BI/Tableau)** - Repo coming soon
+- 📌 **Formula 1 races dataset SQL analysis** - [Repo link](https://github.com/artur-galuska/sql-formula-1-races)
+- 📌 **Merch sales dashboard (Tableau)** - [Repo link](https://github.com/artur-galuska/tableau-merch-sales)
+- 🚧 **Sales Dashboard (Power BI)** - Repo coming soon
 - 🚧 **Hotel bookings dataset Excel analysis** - Repo coming soon
-- 🚧 **Python Data Cleaning Notebooks** - Repo coming soon
+- 🚧 **Python data cleaning notebooks** - Repo coming soon
 
 ---
 
